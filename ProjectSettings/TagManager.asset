@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - FireTile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: water
+    uniqueID: 3467333063
+    locked: 0
+  - name: dirt
+    uniqueID: 4104087083
+    locked: 0
+  - name: vegetation
+    uniqueID: 471444691
+    locked: 0
+  - name: vegetation1
+    uniqueID: 139959029
+    locked: 0
+  - name: vegetation2
+    uniqueID: 2123401017
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3918449219
+    locked: 0
+  m_RenderingLayers:
+  - Default
